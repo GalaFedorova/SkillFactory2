@@ -43,8 +43,12 @@
 ​
 ​
 ### Этапы работы над проектом  
-Первый вариант программы в котором "отгадывает" человек - [game.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game.py)
-​
+
+- Первый вариант программы в котором "отгадывает" человек [game.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game.py)
+
+​- Второй вариант программы в котором "отгадывает" компьютер [game2.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game2.py)
+
+​- Терминал для демонстранции работы второго варианта [game.ipynb](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game.ipynb)
 
 :arrow_up:[к оглавлению][1]
 ​
