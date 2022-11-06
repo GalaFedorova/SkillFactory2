@@ -1,7 +1,7 @@
 # Учебный проект-конспект урока "**PYTHON-8. Инструменты для Data Science**" курса DST 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8.README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
