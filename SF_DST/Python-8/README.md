@@ -1,12 +1,12 @@
-# Учебный проект-конспект урока "**PYTHON-8. Инструменты для Data Science**" курса DST 
+# Учебный проект-конспект урока "_PYTHON-8. Инструменты для Data Science_" курса DST 
 
 ## Оглавление
 [1. Описание проекта](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[2. Какой кейс решаем?](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/README.md#Результат)    
+[6. Выводы](https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/https://github.com/GalaFedorova/SkillFactory2/tree/main//SF_DST/Python-8/README.md#Выводы) 
 ​
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
