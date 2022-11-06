@@ -49,15 +49,19 @@
 ​
 ### Этапы работы над проектом  
 
-- Предварительный вариант программы, в котором "отгадывает" человек [game.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game.py) На каждую попытку компьютер возвращает информацию о том, больше ли проверяемое число или меньше нужного нам.
-- Вариант программы, в котором "отгадывает" компьютер [game2.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game2.py) Компьютер случайным образом ищет число.
-- Терминал для демонстранции работы второго варианта [game.ipynb](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game.ipynb)
+- [game.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game.py) Предварительный вариант программы, в котором "отгадывает" человек  На каждую попытку компьютер возвращает информацию о том, больше ли проверяемое число или меньше нужного нам.
+- [game2.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game2.py) Вариант программы, в котором компьютер случайным образом"отгадывает" число.
+- [game.ipynb](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game.ipynb) Терминал для демонстранции работы второго варианта 
+- [game_bi.py](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game_bi.py) Вариант программы, в котором к случайному поиску числа добавлен вариант бинарного поиска.
+- [game_bi.ipynb](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-8/game_bi.ipynb) Терминал для демонстранции работы обоих вариантов алгоритмов 
 
 :arrow_up:[к оглавлению][1]
 ​
 ​
 ### Результат
 Первый проект в публичном репозитории на github.
+Интересно то, что бинарный алгоритм работает дольше.
+Может из-за пересоздания объектов при присмоении границ диапазона.
 ​
 
 :arrow_up:[к оглавлению][1]
