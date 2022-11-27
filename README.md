@@ -8,3 +8,4 @@
 * [PYTHON-11. Базовые приемы работы с данными в Pandas](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-11)
 * [PYTHON-12. Продвинутые методы работы с данными в Pandas](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-12)
 * [PYTHON-13. Визуализация данных](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-13)
+* [PYTHON-14. Очистка данных](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-14)
