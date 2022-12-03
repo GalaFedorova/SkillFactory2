@@ -9,3 +9,4 @@
 * [PYTHON-12. Продвинутые методы работы с данными в Pandas](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-12)
 * [PYTHON-13. Визуализация данных](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-13)
 * [PYTHON-14. Очистка данных](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-14)
+* [PYTHON-15. Принципы ООП в Python и отладка кода](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-15)
