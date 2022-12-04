@@ -26,7 +26,10 @@
 
 ### Краткая информация о данных
 Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
- 
+
+Файл с курсами валют вы можете скачать [здесь](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip)
+
+
 :arrow_up:[к оглавлению][1]
 ​
 ​
