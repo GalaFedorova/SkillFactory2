@@ -11,3 +11,4 @@
 * [PYTHON-14. Очистка данных](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-14)
 * [PYTHON-15. Принципы ООП в Python и отладка кода](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-15)
 * [PYTHON-16. Markdown и GIT для портфолио](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Python-16)
+* [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Project-1)
