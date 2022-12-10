@@ -27,7 +27,7 @@
 
 ### Краткая информация о данных
 Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
-
+или [здесь](https://drive.google.com/file/d/1mPqnyQ0Tzs1YK_1nBP3CQkvqcKqJubAu/view?usp=sharing)
 Файл с курсами валют вы можете скачать [здесь](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip)
 
 
@@ -46,7 +46,7 @@
 ​​
 
 ### Результат
-[Ноутбук с выполненными заданиями и выводами](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Project-1.Project_1_HeadHunter.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/GalaFedorova/SkillFactory2/blob/main/SF_DST/Project-1/Project_1_HeadHunter.ipynb)
 
 ​
 :arrow_up:[к оглавлению][1]
