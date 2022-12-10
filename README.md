@@ -10,8 +10,8 @@
 * [PYTHON-13. Визуализация данных](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/1_6_Python-13)
 * [PYTHON-14. Очистка данных](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/1_7_Python-14)
 * [PYTHON-15. Принципы ООП в Python и отладка кода](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/1_8_Python-15)
-* [PYTHON-16. Markdown и GIT для портфолио](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/1_9_Python-16)
+* [PYTHON-bonus. Markdown и GIT для портфолио](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/1_9_Python-bonus)
 * [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/Project-1)
 
 ### Блок 2. Подгрузка данных
-* [PYTHON-17. Как выгружать данные из разных форматов](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/2_1_Python-17)
+* [PYTHON-16. Как выгружать данные из разных форматов](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/2_1_Python-16)
