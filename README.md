@@ -16,3 +16,4 @@
 ### Блок 2. Подгрузка данных
 * [PYTHON-16. Как выгружать данные из разных форматов](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/2_1_Python-16)
 * [PYTHON-16. Как получать данные из внешних источников и API](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/2_2_Python-17)
+* [SQL-0.](https://github.com/GalaFedorova/SkillFactory2/tree/main/SF_DST/2_3_SQL-0)
